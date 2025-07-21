@@ -14,20 +14,20 @@ Here is the sources part. You came here from a topic. This is the part, where yo
 
 ## **Contents:**
 
-1. *Подготовка Среды и Инструментов* - [[Lesson No.1 (Sources)]]
-2. *Основы Языка JavaScript* - [[Lesson No.2 (Sources)]]
-3. *Объекты и Массивы* - [[Lesson No.3 (Sources)]]
-4. *Функции и Замыкания* - [[Lesson No.4 (Sources)]]
-5. *Классы и Прототипы* - [[Lesson No.5 (Sources)]]
-6. *Асинхронность: Promise, async/await, Event Loop* - [[Lesson No.6 (Sources)]]
-7. *Работа с DOM и Cобытиями* - [[Lesson No.7 (Sources)]]
-8. *Fetch API и HTTP-запросы* - [[Lesson No.8 (Sources)]]
-9. *LocalStorage и Хранение Данных* - [[Lesson No.9 (Sources)]]
-10. *CSS: Flexbox, Grid, Aдаптив* - [[Lesson No.10 (Sources)]]
-11. *React: установка, JSX, компоненты* - [[Lesson No.11 (Sources)]]
-12. *useState и useEffect* - [[Lesson No.12 (Sources)]]
-13. *Формы в React* - [[Lesson No.13 (Sources)]]
-14. *React + Fetch* - [[Lesson No.14 (Sources)]]
-15. *React Router* - [[Lesson No.15 (Sources)]]
-16. *Оптимизация: memo, useCallback* - [[Lesson No.16 (Sources)]]
-17. *Деплой  Проекта* - [[Lesson No.17 (Sources)]]
+1. [*Подготовка Среды и Инструментов*](Lesson%20No.1%20(Sources).md)
+2. [*Основы Языка JavaScript*](Lesson%20No.2%20(Sources).md)
+3. [*Объекты и Массивы*](Lesson%20No.3%20(Sources).md)
+4. [*Функции и Замыкания*](Lesson%20No.4%20(Sources).md)
+5. [*Классы и Прототипы*](Lesson%20No.5%20(Sources).md)
+6. [*Асинхронность: Promise, async/await, Event Loop*](Lesson%20No.6%20(Sources).md)
+7. [*Работа с DOM и Cобытиями*](Lesson%20No.7%20(Sources).md)
+8. [*Fetch API и HTTP-запросы*](Lesson%20No.8%20(Sources).md)
+9. [*LocalStorage и Хранение Данных*](Lesson%20No.9%20(Sources).md)
+10.[*CSS: Flexbox, Grid, Aдаптив*](Lesson%20No.10%20(Sources).md)
+11.[*React: установка, JSX, компоненты*](Lesson%20No.11%20(Sources).md)
+12.[*useState и useEffect*](Lesson%20No.12%20(Sources).md)
+13.[*Формы в React*](Lesson%20No.13%20(Sources).md)
+14.[*React + Fetch*](Lesson%20No.14%20(Sources).md)
+15.[*React Router*](Lesson%20No.15%20(Sources).md)
+16.[*Оптимизация: memo, useCallback*](Lesson%20No.16%20(Sources).md)
+17.[*Деплой  Проекта*](Lesson%20No.17%20(Sources).md)
