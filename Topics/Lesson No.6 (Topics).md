@@ -9,5 +9,5 @@
 
 
 ### Connected Chapters:
-- ##### *Source Part to this topic* - [[Lesson No.6 (Sources)]]
-- ##### *Practice Part to this topic* - [[Lesson No.6 (Practice)]]
+- ##### [*Source Part to this topic*](../Sources/Lesson%20No.6%20(Sources).md)
+- ##### [*Practice Part to this topic*](../Practice/Lesson%20No.6%20(Practice).md)
