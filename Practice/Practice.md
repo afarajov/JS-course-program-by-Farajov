@@ -18,20 +18,20 @@ Also i would like to explain something: when i say you to leave this part till t
 
 ## **Contents**:
 
-1. *Окружение, VS* - [Lesson No.1 (Practice)](Lesson No.1 (Practice))
-2. *Основы JavaScript* - [Lesson No.2 (Practice)](Lesson%20No.2%20(Practice).md)
-3. *Объекты и массивы* - [[Lesson No.3 (Practice)]]
-4. *Замыкания и функции* - [[Lesson No.4 (Practice)]]
-5. *Классы и прототипы* - [[Lesson No.5 (Practice)]]
-6. *Асинхронность* - [[Lesson No.6 (Practice)]]
-7. *DOM и события* - [[Lesson No.7 (Practice)]]
-8. *Fetch API* - [[Lesson No.8 (Practice)]]
-9. *LocalStorage* - [[Lesson No.9 (Practice)]]
-10. *CSS Flex/Grid + адаптив* - [[Lesson No.10 (Practice)]]
-11. *React: компоненты, JSX* - [[Lesson No.11 (Practice)]]
-12. *useState / useEffect* - [[Lesson No.12 (Practice)]]
-13. *Формы в React* - [[Lesson No.13 (Practice)]]
-14. *React + API* - [[Lesson No.14 (Practice)]]
-15. *React Router* - [[Lesson No.15 (Practice)]]
-16. *Оптимизация* - [[Lesson No.16 (Practice)]]
-17. *Финальный проект* - [[Lesson No.17 (Practice)]]
+1. [*Окружение, VS*](Lesson%20No.1%20(Practice).md)
+2. [*Основы JavaScript*](Lesson%20No.2%20(Practice).md)
+3. [*Объекты и массивы*](Lesson%20No.3%20(Practice).md)
+4. [*Замыкания и функции*](Lesson%20No.4%20(Practice).md)
+5. [*Классы и прототипы*](Lesson%20No.5%20(Practice).md)
+6. [*Асинхронность*](Lesson%20No.6%20(Practice).md)
+7. [*DOM и события*](Lesson%20No.7%20(Practice).md)
+8. [*Fetch API*](Lesson%20No.8%20(Practice).md)
+9. [*LocalStorage*](Lesson%20No.9%20(Practice).md)
+10. [*CSS Flex/Grid + адаптив*](Lesson%20No.10%20(Practice).md)
+11. [*React: компоненты, JSX*](Lesson%20No.11%20(Practice).md)
+12. [*useState / useEffect*](Lesson%20No.12%20(Practice).md)
+13. [*Формы в React*](Lesson%20No.13%20(Practice).md)
+14. [*React + API*](Lesson%20No.14%20(Practice).md)
+15. [*React Router*](Lesson%20No.15%20(Practice).md)
+16. [*Оптимизация*](Lesson%20No.16%20(Practice).md)
+17. [*Финальный проект*](Lesson%20No.17%20(Practice).md)
