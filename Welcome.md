@@ -15,15 +15,15 @@ The goal is to learn modern frontend-stack with emphasis on JavaScript. Here is 
 ### **Contents:**
 
 - [Topics](Topics/Topics.md)
-- [[Sources]]
-- [[Practice]]
+- [Sources](Sources/Sources.md)
+- [Practice](Practice/Practice.md)
 
 
 
 ### 📝 **How to use this plan ?**
 
-- First observe and learn the topic from the [[Topics]]
+- First observe and learn the topic from the [Topics](Topics/Topics.md)
 
-- Then open specified source in the [[Sources]] and go through the topics, making notes and solving tasks
+- Then open specified source in the [Sources](Sources/Sources.md) and go through the topics, making notes and solving tasks
 
-- After all topic do a small practical tasks marked in the [[Practice]] or a small mini-project 
+- After all topic do a small practical tasks marked in the [Practice](Practice/Practice.md) or a small mini-project 
