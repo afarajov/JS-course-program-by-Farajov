@@ -14,7 +14,7 @@ The goal is to learn modern frontend-stack with emphasis on JavaScript. Here is 
 
 ### **Contents:**
 
-- [[Topics]]
+- [Topics](Topics.md)
 - [[Sources]]
 - [[Practice]]
 
