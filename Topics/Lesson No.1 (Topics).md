@@ -7,5 +7,5 @@
 
 
 ### Connected Chapters:
-- ##### *Source Part to this topic* - [[Lesson No.1 (Sources)]]
-- ##### *Practice Part to this topic* - [[Lesson No.1 (Practice)]]
+- ##### [*Source Part to this topic*](Lesson%20No.1%20(Source).md)
+- ##### [*Practice Part to this topic*](Lesson%20No.1%20(Practice).md)
