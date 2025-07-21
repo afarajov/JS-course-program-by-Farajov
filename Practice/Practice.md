@@ -19,7 +19,7 @@ Also i would like to explain something: when i say you to leave this part till t
 ## **Contents**:
 
 1. *Окружение, VS* - [Lesson No.1 (Practice)](Lesson No.1 (Practice))
-2. *Основы JavaScript* - [Lesson No.2 (Practice)]('Lesson No.2 (Practice)'.md)
+2. *Основы JavaScript* - [Lesson No.2 (Practice)](Lesson%20No.2%20(Practice).md)
 3. *Объекты и массивы* - [[Lesson No.3 (Practice)]]
 4. *Замыкания и функции* - [[Lesson No.4 (Practice)]]
 5. *Классы и прототипы* - [[Lesson No.5 (Practice)]]
